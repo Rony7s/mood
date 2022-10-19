@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    text-align:center;
+}
+h1{
+    color:black;
+    margin-top: 100px;
+    font-size:50px;
+}
+p{
+    font-size: 20px;
+    margin: 20px;
+}
+button{
+    font-size: 30px;
+    font-weight: bold;
+    height: 40px;
+    width:100px;
+}
+
+#button1{
+    color:green;
+    border:2px solid green;
+}
+#button1:hover{
+    color:white;
+    background: green;
+}
+#button2{
+    color:red;
+    border:2px solid red;
+}
+
+#button2:hover{
+    color:white;
+    background: red;
+}
